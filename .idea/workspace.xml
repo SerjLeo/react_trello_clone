@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52eb0071-9511-4de3-a15f-09072384a812" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/React+TS guide.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/CodeWars/wildwest.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_1/arrays.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_1/const.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_1/numbers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_1/pointers.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_1/slice.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_1/strings.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_1/types.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/afterfunc.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/async_work.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/atomic_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/atomic_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/chan_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/chan_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/context.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/context_cancel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/context_timeout.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/goroutines.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/race_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/race_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/race_3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/ratelim.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/select_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/select_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/select_3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/tick.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/timeout.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/timer.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/wait_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/wait_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/waitgroup.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/golang_course_pt_1/week_2/async/workerpool.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../golang/hello.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lets_go_app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lets_go_app/.idea/lets_go_app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lets_go_app/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lets_go_app/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lets_go_app/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql_tutorial/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql_tutorial/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql_tutorial/.idea/sql_tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql_tutorial/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql_tutorial/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql_tutorial/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql_tutorial/public/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sql_tutorial/public/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular course/angular-basics" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular course/angular-basics" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular course/blog-app" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular course/blog-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DrawChat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/Learning_Java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java/Learning_Java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tests/Test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Tests/Test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../canvas-whiteboard" beforeDir="false" afterPath="$PROJECT_DIR$/../canvas-whiteboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../svg_animation/add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../svg_animation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../svg_animation/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Алгоритмы" beforeDir="false" afterPath="$PROJECT_DIR$/../Алгоритмы" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jJdX2QyzBjOvwgDzszCyMAYnx2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Users\serge_000\Desktop\Code\React+TS guide\client\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52eb0071-9511-4de3-a15f-09072384a812" name="Default Changelist" comment="" />
+      <created>1603526175020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603526175020</updated>
+      <workItem from="1603526180509" duration="989000" />
+      <workItem from="1604095858815" duration="91000" />
+      <workItem from="1604096010452" duration="2061000" />
+      <workItem from="1604186772989" duration="596000" />
+      <workItem from="1604498542744" duration="475000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="153" y="14" key="SettingsEditor" timestamp="1604095951085">
+      <screen x="0" y="0" width="1304" height="768" />
+    </state>
+    <state x="153" y="14" key="SettingsEditor/0.0.1304.768@0.0.1304.768" timestamp="1604095951085" />
+  </component>
+</project>
