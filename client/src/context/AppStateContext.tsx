@@ -2,6 +2,7 @@ import React, { createContext, useReducer, useContext } from "react"
 import { nanoid } from "nanoid"
 import {findIndexById} from "../utils/findItemIndexById"
 import {moveItem} from "../utils/moveItem"
+import {DragItem} from "../enteties/DragItem";
 
 interface Task {
     id: string
@@ -15,6 +16,7 @@ interface List {
 
 export interface AppState {
     lists: Array<List>
+    draggedItem: DragItem | null
 }
 
 const appData: AppState = {
@@ -34,7 +36,8 @@ const appData: AppState = {
             text: "Done",
             tasks: [{ id: "c3", text: "Begin to use static typing" }]
         }
-    ]
+    ],
+    draggedItem: null
 }
 
 interface AppStateContextProps {
@@ -70,6 +73,10 @@ type Actions =
         type: "MOVE_LIST"
         payload: {dragIndex: number, hoverIndex: number}
     }
+    |{
+        type: "SET_DRAGGED_ITEM",
+        payload: DragItem | null
+    }
 
 const appStateReducer = (state: AppState, action: Actions): AppState => {
     switch (action.type) {
@@ -98,6 +105,9 @@ const appStateReducer = (state: AppState, action: Actions): AppState => {
             return {
                 ...state
             }
+        }
+        case "SET_DRAGGED_ITEM": {
+            return { ...state, draggedItem: action.payload }
         }
         default:
             return state
